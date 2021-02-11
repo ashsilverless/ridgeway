@@ -40,10 +40,11 @@
                     <span></span>
                     <span></span>
                 </div>
-                <div id="cross">
+                <!-- <div id="cross">
                     <span></span>
                     <span></span>
-                </div>
+                </div> -->
+                <div id="close-menu"></div>
             </div>
             <div class="nav">
                 <?wp_nav_menu( array( 

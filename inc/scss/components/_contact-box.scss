@@ -97,5 +97,8 @@
 			}
 		}
 	}
-
+	@include respond(tab-port) {
+		top: 50%;
+		transform: translateY(-50%);
+	}
 }
